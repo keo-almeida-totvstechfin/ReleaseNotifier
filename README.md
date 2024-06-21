@@ -1,4 +1,9 @@
 # B39Notifier
 
-[!GIF](./terminal.png)
+![B39Notifier](terminal.png)
+
+
+
+
+
 

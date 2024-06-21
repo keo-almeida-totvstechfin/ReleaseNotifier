@@ -1,4 +1,4 @@
 # B39Notifier
 
-[GIF!](./terminal.png)
-# ReleaseNotifier
+[!GIF](./terminal.png)
+
